@@ -1,0 +1,11 @@
+id_service,nom_service,responsable,id_type_service
+1,Service C1,Dr. Smith,1
+2,Service D2,Dr. Le,1
+3,Service B3,Dr. Simmons,2
+4,Service E4,Dr. Olsen,2
+5,Service A5,Dr. Taylor,3
+6,Service C6,Dr. Mccoy,2
+7,Service C7,Dr. Collins,1
+8,Service D8,Dr. Flores,3
+9,Service B9,Dr. Andrews,2
+10,Service D10,Dr. Evans,2

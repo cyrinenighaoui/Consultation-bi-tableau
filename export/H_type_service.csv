@@ -1,0 +1,4 @@
+type_service,id_type_service
+Urgence,1
+Consultation,2
+Chirurgie,3
